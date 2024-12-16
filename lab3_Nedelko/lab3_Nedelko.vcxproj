@@ -134,6 +134,7 @@
   <ItemGroup>
     <ClInclude Include="CompStation.h" />
     <ClInclude Include="gas_transmission_network.h" />
+    <ClInclude Include="log.h" />
     <ClInclude Include="Pipe.h" />
     <ClInclude Include="Utilities.h" />
   </ItemGroup>
